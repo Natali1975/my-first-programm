@@ -1,0 +1,9 @@
+.elem {
+    background: rgb(255, 95, 175);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.elem:nth-child(1) {
+    border-radius: 50%;
+}
